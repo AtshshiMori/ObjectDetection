@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33963011874504210}
   - component: {fileID: 65730533438101844}
   - component: {fileID: 23686330658927172}
-  - component: {fileID: 114295751925531376}
+  - component: {fileID: 114244421876511440}
   m_Layer: 0
   m_Name: GazeCursor
   m_TagString: Untagged
@@ -96,7 +96,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &114295751925531376
+--- !u!114 &114244421876511440
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -104,6 +104,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1868330420743118}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 55b9b41b91f9369478fbaa67e4602dfc, type: 3}
+  m_Script: {fileID: 11500000, guid: ae35214cf1702f449b4e1bb0b3d2c214, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
